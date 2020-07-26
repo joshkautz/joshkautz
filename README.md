@@ -1,9 +1,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=joshykautz&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
-<h2>  Hey 👋, I'm <a href="https://kautz.technology" target="_blank">Josh Kautz</a>! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2>
+<h2>  Hey 👋, I'm <a href="http://joshykautz.com" target="_blank">Josh Kautz</a>! 🖥️</h2>
 <p>👨‍💻 Back End Developer & Cloud Engineer ☁️ </p>
-<p>😄 He/Him/His </p>
 <p>👯 Currently looking to collaborate on: <b>iOS development</b> 📱 </p>
-<p> 📫 How to reach me: <a href="http://joshykautz.com" target="_blank">joshykautz.com</a> 🌐</p>
+<p>📫 How to reach me: <a href="http://joshykautz.com" target="_blank">joshykautz.com</a> 🌐</p>
 
 ![Website](https://img.shields.io/website?url=http%3A%2F%2Fjoshykautz.com)
 ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m785633105-d41787b690c86b54a538344e)
