@@ -12,6 +12,8 @@
 ![Website](https://img.shields.io/website?url=http%3A%2F%2Fjoshykautz.com)
 ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m785633105-d41787b690c86b54a538344e)
 
+-----------------------
+
 ##### Languages I use
 
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
@@ -24,7 +26,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 
-
 ##### Technologies I use
 
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
@@ -32,30 +33,12 @@
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
 ![Xamarin](https://img.shields.io/badge/-Xamarin-333333?style=flat&logo=Xamarin)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=ios)
 ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-
-##### Some of my favorite open source projects
-
-[![Flutter](https://img.shields.io/badge/-Flutter-666666?style=flat&logo=flutter)](https://github.com/flutter/flutter)
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-666666?style=flat&logo=visual-studio-code)](https://github.com/microsoft/vscode)
-[![Swagger](https://img.shields.io/badge/-Swagger-666666?style=flat&logo=swagger)](https://github.com/swagger-api/swagger-ui)
-[![.NET](https://img.shields.io/badge/-.NET-666666?style=flat&logo=.net)](https://github.com/dotnet/core)
-
-<!--
-**joshykautz/joshykautz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
+![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
