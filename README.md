@@ -1,5 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=joshykautz&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
-<h2>  Hey 👋, I'm <a href="http://joshykautz.com" target="_blank">Josh Kautz</a>!</h2>
+<h2>  Hey, I'm <a href="http://joshykautz.com" target="_blank">Josh Kautz</a>!👋</h2>
 <p>👨‍💻 Back End Developer & Cloud Engineer ☁️ </p>
 <p>👯 Currently looking to collaborate on:<br><b>&nbsp &nbsp &nbsp &nbsp &nbsp iOS development</b> 📱</p>
 <p>📫 How to reach me: <a href="http://joshykautz.com" target="_blank">joshykautz.com</a> 🌐</p>
