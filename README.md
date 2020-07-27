@@ -1,11 +1,49 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=joshykautz&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
-<h2>  Hey, I'm <a href="http://joshykautz.com" target="_blank">Josh Kautz</a>!👋</h2>
-<p>👨‍💻 Back End Developer & Cloud Engineer ☁️ </p>
-<p>👯 Currently looking to collaborate on:<br><b>&nbsp &nbsp &nbsp &nbsp &nbsp iOS development</b> 📱</p>
-<p>📫 How to reach me: <a href="http://joshykautz.com" target="_blank">joshykautz.com</a> 🌐</p>
+##### Hi, I'm Josh:
+
+-   :mortar_board: Computer Science graduate from the University of Minnesota
+-   :money_with_wings: Working in Minneapolos, Minnesota, doing web development and native app development
+-   :speech_balloon: Let's talk about AWS, iOS Development, full-stack, web, or literally anything!
+-   :mailbox: You can reach me with the links below
+
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kautz035@umn.edu)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshykautz/)
+[![joshykautz.com](https://img.shields.io/badge/-JOSHYKAUTZ.COM-000000?style=for-the-badge&logo=html5&logoColor=white)](http://www.joshykautz.com/)
 
 ![Website](https://img.shields.io/website?url=http%3A%2F%2Fjoshykautz.com)
 ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m785633105-d41787b690c86b54a538344e)
+
+##### Languages I use
+
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnu-bash)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+
+
+##### Technologies I use
+
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![Xamarin](https://img.shields.io/badge/-Xamarin-333333?style=flat&logo=Xamarin)
+![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=ios)
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
+##### Some of my favorite open source projects
+
+[![Flutter](https://img.shields.io/badge/-Flutter-666666?style=flat&logo=flutter)](https://github.com/flutter/flutter)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-666666?style=flat&logo=visual-studio-code)](https://github.com/microsoft/vscode)
+[![Swagger](https://img.shields.io/badge/-Swagger-666666?style=flat&logo=swagger)](https://github.com/swagger-api/swagger-ui)
+[![.NET](https://img.shields.io/badge/-.NET-666666?style=flat&logo=.net)](https://github.com/dotnet/core)
 
 <!--
 **joshykautz/joshykautz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
