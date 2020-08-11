@@ -1,7 +1,7 @@
 ##### Hi, I'm Josh:
 
 -   :mortar_board: Computer Science graduate from the University of Minnesota
--   :money_with_wings: Working in Minneapolos, Minnesota, doing web development and native app development
+-   :money_with_wings: Working in Minneapolis, Minnesota, doing web development and native app development
 -   :speech_balloon: Let's talk about AWS, iOS Development, full-stack, web, or literally anything!
 -   :mailbox: You can reach me with the links below
 
