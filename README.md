@@ -1,12 +1,13 @@
 ##### Hi, I'm Josh:
 
--   :mortar_board: Computer Science graduate from the University of Minnesota
--   :money_with_wings: Working in Minneapolis, Minnesota - doing web and mobile app development
--   :speech_balloon: Let's talk about AWS, iOS Development, or literally anything!
--   :mailbox: You can reach me with the links below
+:mortar_board: Computer Science graduate from the University of Minnesota<br>
+:money_with_wings: Working in Minneapolis, Minnesota - doing web and mobile app development<br>
+:speech_balloon: Let's talk about AWS, iOS Development, or literally anything!<br>
+:mailbox: You can reach me with the links below...
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kautz035@umn.edu)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshykautz/)
+[![Instagram](https://img.shields.io/badge/-instagram-FCAF45?style=for-the-badge&logo=instagram&logoColor=C13584&labelColor=FFDC80)](https://www.instagram.com/joshykautz/)
 [![joshykautz.com](https://img.shields.io/badge/-JOSHYKAUTZ.COM-000000?style=for-the-badge&logo=html5&logoColor=white)](http://www.joshykautz.com/)
 
 ![Website](https://img.shields.io/website?url=http%3A%2F%2Fjoshykautz.com)
