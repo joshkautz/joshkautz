@@ -1,8 +1,8 @@
 ##### Hi, I'm Josh:
 
 -   :mortar_board: Computer Science graduate from the University of Minnesota
--   :money_with_wings: Working in Minneapolis, Minnesota, doing web development and native app development
--   :speech_balloon: Let's talk about AWS, iOS Development, full-stack, web, or literally anything!
+-   :money_with_wings: Working in Minneapolis, Minnesota - doing web and mobile app development
+-   :speech_balloon: Let's talk about AWS, iOS Development, or literally anything!
 -   :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kautz035@umn.edu)
