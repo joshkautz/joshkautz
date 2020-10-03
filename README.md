@@ -24,8 +24,6 @@
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnu-bash)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 
 ##### Technologies I use
 
