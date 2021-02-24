@@ -17,23 +17,23 @@
 
 ##### ✨ Favorite Languages ✨
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)<br>
-![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)<br>
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)<br>
-![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)<br>
-![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)<br>
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)<br>
-![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnu-bash)<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
+![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnu-bash)
 
 ##### 🔨 Favorite Technologies 🔨
 
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)<br>
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)<br>
-![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)<br>
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)<br>
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)<br>
-![.NET Core](https://img.shields.io/badge/-.NET-Core-333333?style=flat&logo=.net)<br>
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)<br>
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)<br>
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)<br>
-![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)<br>
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![.NET Core](https://img.shields.io/badge/-.NET Core-333333?style=flat&logo=.net)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
+![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
