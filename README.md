@@ -1,8 +1,8 @@
 [![Website](https://img.shields.io/badge/-JOSHKAUTZ.COM-000000?style=for-the-badge&logo=html5&logoColor=white)](https://www.joshkautz.com/)
 [![Linktree](https://img.shields.io/badge/-LINKTREE-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/joshkautz/)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshykautz/)
-[![Instagram](https://img.shields.io/badge/-INSTAGRAM-FCAF45?style=for-the-badge&logo=instagram&logoColor=C13584&labelColor=FFDC80)](https://www.instagram.com/joshykautz/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kautz035@umn.edu)
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-FCAF45?style=for-the-badge&logo=instagram&logoColor=C13584)](https://www.instagram.com/joshykautz/)
 
 
 ![Website](https://img.shields.io/website?url=http%3A%2F%2Fjoshykautz.com)
