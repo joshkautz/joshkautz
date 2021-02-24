@@ -4,10 +4,6 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kautz035@umn.edu)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-FCAF45?style=for-the-badge&logo=instagram&logoColor=C13584)](https://www.instagram.com/joshykautz/)
 
-
-![Website](https://img.shields.io/website?url=http%3A%2F%2Fjoshykautz.com)
-![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m785633105-d41787b690c86b54a538344e)
-
 ##### Hi, I'm Josh:
 
 :mortar_board: Computer Science graduate from the University of Minnesota<br>
