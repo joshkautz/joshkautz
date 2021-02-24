@@ -32,7 +32,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![.NET Core](https://img.shields.io/badge/-.NET Core-333333?style=flat&logo=.net)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-333333?style=flat&logo=.net)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
