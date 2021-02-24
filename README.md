@@ -6,12 +6,10 @@
 
 ##### Hi, I'm Josh:
 
-:mortar_board: Computer Science graduate from the University of Minnesota<br>
-:money_with_wings: Working in Minneapolis, Minnesota - doing web and mobile app development<br>
-:speech_balloon: Let's talk about AWS, iOS Development, or literally anything!<br>
-:mailbox: You can reach me with the links below...
-
------------------------
+🏠 Living in Minneapolis, Minnesota. 🥶
+💼 Working as a Senior Back End Developer for [Fjorge](https://fjorgedigital.com/).
+🎓 Graduated from the University of Minnesota with a B.S. Computer Science degree.<br>
+💬 Let's talk about: AWS, DevOps, Flutter, or literally anything!<br>
 
 ##### ✨ Favorite Languages ✨
 
