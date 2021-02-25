@@ -1,10 +1,9 @@
-[![Website](https://img.shields.io/badge/-JOSHKAUTZ.COM-000000?style=for-the-badge&logo=html5&logoColor=white)](https://www.joshkautz.com/)
+[![Website](https://img.shields.io/badge/-JOSHKAUTZ.COM-D14836?style=for-the-badge&logo=html5&logoColor=white)](https://www.joshkautz.com/)
 [![Linktree](https://img.shields.io/badge/-LINKTREE-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/joshkautz/)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshykautz/)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joshykautz/)
 [![Twitter](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/joshykautz/)
 [![Stack Overflow](https://img.shields.io/badge/-STACK%20OVERFLOW-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/story/joshykautz)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kautz035@umn.edu)
 [![Medium](https://img.shields.io/badge/-MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@joshykautz)
 
 ##### Hi, I'm Josh:
