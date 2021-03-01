@@ -1,5 +1,4 @@
 [![Website](https://img.shields.io/badge/-JOSHKAUTZ.COM-D14836?style=for-the-badge&logo=html5&logoColor=white)](https://www.joshkautz.com/)
-[![Linktree](https://img.shields.io/badge/-LINKTREE-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/joshkautz/)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshykautz/)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joshykautz/)
 [![Twitter](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/joshykautz/)
