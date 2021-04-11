@@ -8,7 +8,7 @@
 ##### Hi, I'm Josh:
 
 🏠 Living in Minneapolis, Minnesota. 🥶<br>
-💼 Working as a Senior Back End Developer at [Fjorge](https://fjorgedigital.com/).<br>
+💼 Working as a DevOps Engineer at [C.H. Robinson](https://www.chrobinson.com/).<br>
 🎓 Graduated from the University of Minnesota with a B.S. Computer Science degree.<br>
 💬 Let's talk about: AWS, DevOps, Flutter, or literally anything!<br>
 
