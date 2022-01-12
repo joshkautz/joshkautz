@@ -9,7 +9,7 @@
 
 🏠 Living in Minneapolis, Minnesota. 🥶<br>
 💼 Working as a DevOps Engineer at [C.H. Robinson](https://www.chrobinson.com/).<br>
-🎓 Graduated from the University of Minnesota with a B.S. Computer Science degree.<br>
+🎓 Graduated from the University of Minnesota with a B.S. in Computer Science.<br>
 💬 Let's talk about: AWS, Flutter, or literally anything!<br>
 
 ##### ✨ Favorite Languages ✨
