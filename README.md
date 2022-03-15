@@ -7,19 +7,17 @@
 
 ##### Hi, I'm Josh:
 
-🏠 Living in Minneapolis, Minnesota. 🥶<br>
+🏠 Living in Minneapolis, Minnesota.<br>
 💼 Working as a DevOps Software Engineer II at [C.H. Robinson](https://www.chrobinson.com/).<br>
-🎓 Graduated from the University of Minnesota with a B.S. in Computer Science.<br>
+🎓 Graduated from the University of Minnesota.<br>
 💬 Let's talk about: AWS, Flutter, or literally anything!<br>
 
 ##### ✨ Favorite Languages ✨
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
-![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnu-bash)
 
 ##### 🔨 Favorite Technologies 🔨
@@ -27,10 +25,9 @@
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![.NET Core](https://img.shields.io/badge/-.NET%20Core-333333?style=flat&logo=.net)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![.NET](https://img.shields.io/badge/-.NET%20Core-333333?style=flat&logo=.net)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
-![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
