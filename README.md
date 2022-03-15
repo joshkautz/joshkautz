@@ -28,6 +28,6 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![.NET](https://img.shields.io/badge/-.NET%20Core-333333?style=flat&logo=.net)
+![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
