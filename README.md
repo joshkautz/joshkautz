@@ -26,7 +26,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
